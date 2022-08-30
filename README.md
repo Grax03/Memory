@@ -13,6 +13,9 @@
 - Mostrare inizialmente il retro della carta e capovolgerlo quando si seleziona.
 - Gioco finito!
 
+## Gioco
+Clicca qui per giocare ora https://memorygraziano.netlify.app/
+
 ## Autore
 
 - [Filippo Graziano](https://github.com/Grax03)
