@@ -1,7 +1,10 @@
 # ⭐ Memory
+![Memory](https://user-images.githubusercontent.com/78277419/187728491-26537d4f-25fa-4696-bb1d-1dcec96086d3.png)
+
+## Gioco
+Clicca qui per giocare ora https://memorygraziano.netlify.app/
 
 ## Analisi:
-
 - Visualizzare 12 carte.
 - Duplicare le carte per avere 2 serie da 12.
 - Randomizzare la visualizzazione delle carte.
@@ -13,9 +16,5 @@
 - Mostrare inizialmente il retro della carta e capovolgerlo quando si seleziona.
 - Gioco finito!
 
-## Gioco
-Clicca qui per giocare ora https://memorygraziano.netlify.app/
-
 ## Autore
-
 - [Filippo Graziano](https://github.com/Grax03)
