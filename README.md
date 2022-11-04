@@ -2,7 +2,7 @@
 ![Memory](https://user-images.githubusercontent.com/78277419/187728491-26537d4f-25fa-4696-bb1d-1dcec96086d3.png)
 
 ## Gioco
-Clicca qui per giocare ora https://memorygraziano.netlify.app/
+[Clicca qui per giocare ora](https://filippograziano.it/memory)
 
 ## Analisi:
 - Visualizzare 12 carte.
